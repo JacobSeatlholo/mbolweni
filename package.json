@@ -6,7 +6,7 @@
     "test": "jest",
     "start": "parcel index.html",
     "build": "parcel build index.html,
-    "[my-framework] build --output public""
+    "[my-framework] build --output public,"
   },
   "keywords": [
     "react",
