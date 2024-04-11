@@ -52,3 +52,9 @@
     "last 2 version"
   ]
 }
+
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
