@@ -5,8 +5,7 @@
   "scripts": {
     "test": "jest",
     "start": "parcel index.html",
-    "build": "parcel build index.html,
-    "[my-framework] build --output public,"
+    "build": "parcel build index.html"
   },
   "keywords": [
     "react",
